@@ -1,1 +1,3 @@
 Hello, How are you
+
+line 2 was not in the initial git, but is now being introduced
